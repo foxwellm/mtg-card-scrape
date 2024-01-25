@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Agency Coroner",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Agency%20Coroner.75.jpg",
+    "colorid": "B",
+    "cmc": 5
+  },
+  {
+    "name": "Airtight Alibi",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Airtight%20Alibi.149.jpg",
+    "colorid": "G",
+    "cmc": 3
+  },
+  {
+    "name": "Alley Assailant",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Alley%20Assailant.76.jpg",
+    "colorid": "B",
+    "cmc": 3
+  },
+  {
+    "name": "Auspicious Arrival",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Auspicious%20Arrival.5.jpg",
+    "colorid": "W",
+    "cmc": 2
+  },
+  {
+    "name": "Behind the Mask",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Behind%20the%20Mask.39.jpg",
+    "colorid": "U",
+    "cmc": 1
+  },
+  {
+    "name": "Benthic Criminologists",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Benthic%20Criminologists.40.jpg",
+    "colorid": "U",
+    "cmc": 5
+  },
+  {
+    "name": "Bite Down on Crime",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Bite%20Down%20on%20Crime.154.jpg",
+    "colorid": "G",
+    "cmc": 4
+  },
+  {
+    "name": "Crimestopper Sprite",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Crimestopper%20Sprite.49.jpg",
+    "colorid": "U",
+    "cmc": 3
+  },
+  {
+    "name": "Deduce",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Deduce.52.jpg",
+    "colorid": "U",
+    "cmc": 2
+  },
+  {
+    "name": "Defenestrated Phantom",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Defenestrated%20Phantom.11.jpg",
+    "colorid": "W",
+    "cmc": 6
+  },
+  {
+    "name": "Demand Answers",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Demand%20Answers.122.jpg",
+    "colorid": "R",
+    "cmc": 2
+  },
+  {
+    "name": "Dog Walker",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Dog%20Walker.197.jpg",
+    "colorid": "R|W",
+    "cmc": 2
+  },
+  {
+    "name": "Due Diligence",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Due%20Diligence.14.jpg",
+    "colorid": "W",
+    "cmc": 3
+  },
+  {
+    "name": "Escape Tunnel",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Escape%20Tunnel.261.jpg",
+    "colorid": null,
+    "cmc": 0
+  },
+  {
+    "name": "Extract a Confession",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Extract%20a%20Confession.84.jpg",
+    "colorid": "B",
+    "cmc": 2
+  },
+  {
+    "name": "Faerie Snoop",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Faerie%20Snoop.203.jpg",
+    "colorid": "B|U",
+    "cmc": 3
+  },
+  {
+    "name": "Fanatical Strength",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Fanatical%20Strength.159.jpg",
+    "colorid": "G",
+    "cmc": 2
+  },
+  {
+    "name": "Felonious Rage",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Felonious%20Rage.125.jpg",
+    "colorid": "R",
+    "cmc": 1
+  },
+  {
+    "name": "Forest",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Forest.276.jpg",
+    "colorid": "G",
+    "cmc": 0
+  },
+  {
+    "name": "Gadget Technician",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Gadget%20Technician.204.jpg",
+    "colorid": "R|U",
+    "cmc": 4
+  },
+  {
+    "name": "Galvanize",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Galvanize.128.jpg",
+    "colorid": "R",
+    "cmc": 2
+  },
+  {
+    "name": "Gearbane Orangutan",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Gearbane%20Orangutan.129.jpg",
+    "colorid": "R",
+    "cmc": 3
+  },
+  {
+    "name": "Goblin Maskmaker",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Goblin%20Maskmaker.130.jpg",
+    "colorid": "R",
+    "cmc": 1
+  },
+  {
+    "name": "Granite Witness",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Granite%20Witness.206.jpg",
+    "colorid": "U|W",
+    "cmc": 4
+  },
+  {
+    "name": "Griffnaut Tracker",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Griffnaut%20Tracker.17.jpg",
+    "colorid": "W",
+    "cmc": 4
+  },
+  {
+    "name": "Hotshot Investigators",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Hotshot%20Investigators.60.jpg",
+    "colorid": "U",
+    "cmc": 6
+  },
+  {
+    "name": "Innocent Bystander",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Innocent%20Bystander.133.jpg",
+    "colorid": "R",
+    "cmc": 2
+  },
+  {
+    "name": "Island",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Island.273.jpg",
+    "colorid": "U",
+    "cmc": 0
+  },
+  {
+    "name": "Jaded Analyst",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Jaded%20Analyst.62.jpg",
+    "colorid": "U",
+    "cmc": 2
+  },
+  {
+    "name": "Loxodon Eavesdropper",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Loxodon%20Eavesdropper.168.jpg",
+    "colorid": "G",
+    "cmc": 4
+  },
+  {
+    "name": "Macabre Reconstruction",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Macabre%20Reconstruction.93.jpg",
+    "colorid": "B",
+    "cmc": 4
+  },
+  {
+    "name": "Magnifying Glass",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Magnifying%20Glass.255.jpg",
+    "colorid": null,
+    "cmc": 3
+  },
+  {
+    "name": "Marketwatch Phantom",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Marketwatch%20Phantom.24.jpg",
+    "colorid": "W",
+    "cmc": 2
+  },
+  {
+    "name": "Mountain",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Mountain.275.jpg",
+    "colorid": "R",
+    "cmc": 0
+  },
+  {
+    "name": "Museum Nightwatch",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Museum%20Nightwatch.25.jpg",
+    "colorid": "W",
+    "cmc": 4
+  },
+  {
+    "name": "Nervous Gardener",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Nervous%20Gardener.169.jpg",
+    "colorid": "G",
+    "cmc": 2
+  },
+  {
+    "name": "Novice Inspector",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Novice%20Inspector.29.jpg",
+    "colorid": "W",
+    "cmc": 1
+  },
+  {
+    "name": "Offender at Large",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Offender%20at%20Large.138.jpg",
+    "colorid": "R",
+    "cmc": 5
+  },
+  {
+    "name": "Out Cold",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Out%20Cold.66.jpg",
+    "colorid": "U",
+    "cmc": 4
+  },
+  {
+    "name": "Pick Your Poison",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Pick%20Your%20Poison.170.jpg",
+    "colorid": "G",
+    "cmc": 1
+  },
+  {
+    "name": "Plains",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Plains.272.jpg",
+    "colorid": "W",
+    "cmc": 0
+  },
+  {
+    "name": "Projektor Inspector",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Projektor%20Inspector.68.jpg",
+    "colorid": "U",
+    "cmc": 3
+  },
+  {
+    "name": "Public Thoroughfare",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Public%20Thoroughfare.265.jpg",
+    "colorid": null,
+    "cmc": 0
+  },
+  {
+    "name": "Rakish Scoundrel",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Rakish%20Scoundrel.225.jpg",
+    "colorid": "B|G",
+    "cmc": 4
+  },
+  {
+    "name": "Red Herring",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Red%20Herring.142.jpg",
+    "colorid": "R",
+    "cmc": 2
+  },
+  {
+    "name": "Repeat Offender",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Repeat%20Offender.101.jpg",
+    "colorid": "B",
+    "cmc": 2
+  },
+  {
+    "name": "Riftburst Hellion",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Riftburst%20Hellion.228.jpg",
+    "colorid": "G|R",
+    "cmc": 7
+  },
+  {
+    "name": "Rot Farm Mortipede",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Rot%20Farm%20Mortipede.102.jpg",
+    "colorid": "B",
+    "cmc": 4
+  },
+  {
+    "name": "Rubblebelt Maverick",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Rubblebelt%20Maverick.174.jpg",
+    "colorid": "G",
+    "cmc": 1
+  },
+  {
+    "name": "Sanitation Automaton",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Sanitation%20Automaton.256.jpg",
+    "colorid": null,
+    "cmc": 2
+  },
+  {
+    "name": "Seasoned Consultant",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Seasoned%20Consultant.33.jpg",
+    "colorid": "W",
+    "cmc": 2
+  },
+  {
+    "name": "Shady Informant",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Shady%20Informant.231.jpg",
+    "colorid": "B|R",
+    "cmc": 5
+  },
+  {
+    "name": "Shock",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Shock.144.jpg",
+    "colorid": "R",
+    "cmc": 1
+  },
+  {
+    "name": "Slime Against Humanity",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Slime%20Against%20Humanity.177.jpg",
+    "colorid": "G",
+    "cmc": 3
+  },
+  {
+    "name": "Swamp",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Swamp.274.jpg",
+    "colorid": "B",
+    "cmc": 0
+  },
+  {
+    "name": "They Went This Way",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/They%20Went%20This%20Way.178.jpg",
+    "colorid": "G",
+    "cmc": 3
+  },
+  {
+    "name": "Topiary Panther",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Topiary%20Panther.179.jpg",
+    "colorid": "G",
+    "cmc": 6
+  },
+  {
+    "name": "Tunnel Tipster",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Tunnel%20Tipster.180.jpg",
+    "colorid": "G",
+    "cmc": 2
+  },
+  {
+    "name": "Undercover Crocodelf",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Undercover%20Crocodelf.239.jpg",
+    "colorid": "G|U",
+    "cmc": 6
+  },
+  {
+    "name": "Vitu-Ghazi Inspector",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Vitu-Ghazi%20Inspector.183.jpg",
+    "colorid": "G",
+    "cmc": 2
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Agrus Kos, Spirit of Justice",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Agrus%20Kos,%20Spirit%20of%20Justice.184.jpg",
+    "colorid": "R|W",
+    "cmc": 4
+  },
+  {
+    "name": "Alquist Proft, Master Sleuth",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Alquist%20Proft,%20Master%20Sleuth.185.jpg",
+    "colorid": "U|W",
+    "cmc": 3
+  },
+  {
+    "name": "Anzrag, the Quake-Mole",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Anzrag,%20the%20Quake-Mole.186.jpg",
+    "colorid": "G|R",
+    "cmc": 4
+  },
+  {
+    "name": "Aurelia's Vindicator",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Aurelia%27s%20Vindicator.4.jpg",
+    "colorid": "W",
+    "cmc": 4
+  },
+  {
+    "name": "Conspiracy Unraveler",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Conspiracy%20Unraveler.47.jpg",
+    "colorid": "U",
+    "cmc": 7
+  },
+  {
+    "name": "Delney, Streetwise Lookout",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Delney,%20Streetwise%20Lookout.12.jpg",
+    "colorid": "W",
+    "cmc": 3
+  },
+  {
+    "name": "Etrata, Deadly Fugitive",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Etrata,%20Deadly%20Fugitive.200.jpg",
+    "colorid": "B|U",
+    "cmc": 3
+  },
+  {
+    "name": "Incinerator of the Guilty",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Incinerator%20of%20the%20Guilty.132.jpg",
+    "colorid": "R",
+    "cmc": 6
+  },
+  {
+    "name": "Intrude on the Mind",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Intrude%20on%20the%20Mind.61.jpg",
+    "colorid": "U",
+    "cmc": 5
+  },
+  {
+    "name": "Kaya, Spirits' Justice",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Kaya,%20Spirits%27%20Justice.211.jpg",
+    "colorid": "B|W",
+    "cmc": 4
+  },
+  {
+    "name": "Kylox's Voltstrider",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Kylox%27s%20Voltstrider.215.jpg",
+    "colorid": "R|U",
+    "cmc": 3
+  },
+  {
+    "name": "Massacre Girl, Known Killer",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Massacre%20Girl,%20Known%20Killer.94.jpg",
+    "colorid": "B",
+    "cmc": 4
+  },
+  {
+    "name": "Melek, Reforged Researcher",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Melek,%20Reforged%20Researcher.430.jpg",
+    "colorid": "R|U",
+    "cmc": 5
+  },
+  {
+    "name": "Rakdos, Patron of Chaos",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Rakdos,%20Patron%20of%20Chaos.224.jpg",
+    "colorid": "B|R",
+    "cmc": 6
+  },
+  {
+    "name": "The Pride of Hull Clade",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/The%20Pride%20of%20Hull%20Clade.172.jpg",
+    "colorid": "G|U",
+    "cmc": 11
+  },
+  {
+    "name": "Tomik, Wielder of Law",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Tomik,%20Wielder%20of%20Law.431.jpg",
+    "colorid": "B|W",
+    "cmc": 3
+  },
+  {
+    "name": "Trostani, Three Whispers",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Trostani,%20Three%20Whispers.238.jpg",
+    "colorid": "G|W",
+    "cmc": 3
+  },
+  {
+    "name": "Undergrowth Recon",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Undergrowth%20Recon.181.jpg",
+    "colorid": "G",
+    "cmc": 3
+  },
+  {
+    "name": "Urgent Necropsy",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Urgent%20Necropsy.240.jpg",
+    "colorid": "B|G",
+    "cmc": 4
+  },
+  {
+    "name": "Vannifar, Evolved Enigma",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Vannifar,%20Evolved%20Enigma.241.jpg",
+    "colorid": "G|U",
+    "cmc": 4
+  },
+  {
+    "name": "Vein Ripper",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Vein%20Ripper.110.jpg",
+    "colorid": "B",
+    "cmc": 6
+  },
+  {
+    "name": "Voja, Jaws of the Conclave",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Voja,%20Jaws%20of%20the%20Conclave.432.jpg",
+    "colorid": "G|R|W",
+    "cmc": 5
+  }
+]

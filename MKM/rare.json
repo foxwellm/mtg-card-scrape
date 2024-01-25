@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Analyze the Pollen",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Analyze%20the%20Pollen.150.jpg",
+    "colorid": "G",
+    "cmc": 1
+  },
+  {
+    "name": "Archdruid's Charm",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Archdruid%27s%20Charm.151.jpg",
+    "colorid": "G",
+    "cmc": 3
+  },
+  {
+    "name": "Assassin's Trophy",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Assassin%27s%20Trophy.187.jpg",
+    "colorid": "B|G",
+    "cmc": 2
+  },
+  {
+    "name": "Assemble the Players",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Assemble%20the%20Players.3.jpg",
+    "colorid": "W",
+    "cmc": 2
+  },
+  {
+    "name": "Aurelia, the Law Above",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Aurelia,%20the%20Law%20Above.188.jpg",
+    "colorid": "R|W",
+    "cmc": 5
+  },
+  {
+    "name": "Axebane Ferox",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Axebane%20Ferox.153.jpg",
+    "colorid": "G",
+    "cmc": 4
+  },
+  {
+    "name": "Barbed Servitor",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Barbed%20Servitor.77.jpg",
+    "colorid": "B",
+    "cmc": 4
+  },
+  {
+    "name": "Blood Spatter Analysis",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Blood%20Spatter%20Analysis.189.jpg",
+    "colorid": "B|R",
+    "cmc": 2
+  },
+  {
+    "name": "Case of the Crimson Pulse",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Case%20of%20the%20Crimson%20Pulse.114.jpg",
+    "colorid": "R",
+    "cmc": 3
+  },
+  {
+    "name": "Case of the Locked Hothouse",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Case%20of%20the%20Locked%20Hothouse.155.jpg",
+    "colorid": "G",
+    "cmc": 4
+  },
+  {
+    "name": "Case of the Ransacked Lab",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Case%20of%20the%20Ransacked%20Lab.45.jpg",
+    "colorid": "U",
+    "cmc": 3
+  },
+  {
+    "name": "Case of the Stashed Skeleton",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Case%20of%20the%20Stashed%20Skeleton.80.jpg",
+    "colorid": "B",
+    "cmc": 2
+  },
+  {
+    "name": "Commercial District",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Commercial%20District.259.jpg",
+    "colorid": "G|R",
+    "cmc": 0
+  },
+  {
+    "name": "Connecting the Dots",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Connecting%20the%20Dots.118.jpg",
+    "colorid": "R",
+    "cmc": 2
+  },
+  {
+    "name": "Cryptex",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Cryptex.251.jpg",
+    "colorid": null,
+    "cmc": 2
+  },
+  {
+    "name": "Cryptic Coat",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Cryptic%20Coat.50.jpg",
+    "colorid": "U",
+    "cmc": 3
+  },
+  {
+    "name": "Deadly Cover-Up",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Deadly%20Cover-Up.83.jpg",
+    "colorid": "B",
+    "cmc": 5
+  },
+  {
+    "name": "Doorkeeper Thrull",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Doorkeeper%20Thrull.13.jpg",
+    "colorid": "W",
+    "cmc": 2
+  },
+  {
+    "name": "Doppelgang",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Doppelgang.198.jpg",
+    "colorid": "G|U",
+    "cmc": 2
+  },
+  {
+    "name": "Drag the Canal",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Drag%20the%20Canal.199.jpg",
+    "colorid": "B|U",
+    "cmc": 2
+  },
+  {
+    "name": "Elegant Parlor",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Elegant%20Parlor.260.jpg",
+    "colorid": "R|W",
+    "cmc": 0
+  },
+  {
+    "name": "Ezrim, Agency Chief",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Ezrim,%20Agency%20Chief.202.jpg",
+    "colorid": "U|W",
+    "cmc": 5
+  },
+  {
+    "name": "Fugitive Codebreaker",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Fugitive%20Codebreaker.127.jpg",
+    "colorid": "R",
+    "cmc": 2
+  },
+  {
+    "name": "Hedge Maze",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Hedge%20Maze.262.jpg",
+    "colorid": "G|U",
+    "cmc": 0
+  },
+  {
+    "name": "Homicide Investigator",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Homicide%20Investigator.86.jpg",
+    "colorid": "B",
+    "cmc": 2
+  },
+  {
+    "name": "Hunted Bonebrute",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Hunted%20Bonebrute.87.jpg",
+    "colorid": "B",
+    "cmc": 3
+  },
+  {
+    "name": "Izoni, Center of the Web",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Izoni,%20Center%20of%20the%20Web.209.jpg",
+    "colorid": "B|G",
+    "cmc": 6
+  },
+  {
+    "name": "Judith, Carnage Connoisseur",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Judith,%20Carnage%20Connoisseur.210.jpg",
+    "colorid": "B|R",
+    "cmc": 5
+  },
+  {
+    "name": "Kellan, Inquisitive Prodigy",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Kellan,%20Inquisitive%20Prodigy.212a.jpg",
+    "colorid": "G|U",
+    "cmc": 4
+  },
+  {
+    "name": "Krenko, Baron of Tin Street",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Krenko,%20Baron%20of%20Tin%20Street.135.jpg",
+    "colorid": "R",
+    "cmc": 3
+  },
+  {
+    "name": "Kylox, Visionary Inventor",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Kylox,%20Visionary%20Inventor.214.jpg",
+    "colorid": "R|U",
+    "cmc": 7
+  },
+  {
+    "name": "Lamplight Phoenix",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Lamplight%20Phoenix.137.jpg",
+    "colorid": "R",
+    "cmc": 3
+  },
+  {
+    "name": "Lazav, Wearer of Faces",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Lazav,%20Wearer%20of%20Faces.216.jpg",
+    "colorid": "B|U",
+    "cmc": 2
+  },
+  {
+    "name": "Leyline of the Guildpact",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Leyline%20of%20the%20Guildpact.217.jpg",
+    "colorid": "B|G|R|U|W",
+    "cmc": 4
+  },
+  {
+    "name": "Lost in the Maze",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Lost%20in%20the%20Maze.64.jpg",
+    "colorid": "U",
+    "cmc": 2
+  },
+  {
+    "name": "Lush Portico",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Lush%20Portico.263.jpg",
+    "colorid": "G|W",
+    "cmc": 0
+  },
+  {
+    "name": "Meticulous Archive",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Meticulous%20Archive.264.jpg",
+    "colorid": "U|W",
+    "cmc": 0
+  },
+  {
+    "name": "No Witnesses",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/No%20Witnesses.27.jpg",
+    "colorid": "W",
+    "cmc": 4
+  },
+  {
+    "name": "Outrageous Robbery",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Outrageous%20Robbery.97.jpg",
+    "colorid": "B",
+    "cmc": 2
+  },
+  {
+    "name": "Proft's Eidetic Memory",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Proft%27s%20Eidetic%20Memory.67.jpg",
+    "colorid": "U",
+    "cmc": 2
+  },
+  {
+    "name": "Pyrotechnic Performer",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Pyrotechnic%20Performer.140.jpg",
+    "colorid": "R",
+    "cmc": 2
+  },
+  {
+    "name": "Raucous Theater",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Raucous%20Theater.266.jpg",
+    "colorid": "B|R",
+    "cmc": 0
+  },
+  {
+    "name": "Relive the Past",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Relive%20the%20Past.226.jpg",
+    "colorid": "G|W",
+    "cmc": 7
+  },
+  {
+    "name": "Shadowy Backstreet",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Shadowy%20Backstreet.268.jpg",
+    "colorid": "B|W",
+    "cmc": 0
+  },
+  {
+    "name": "Sharp-Eyed Rookie",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Sharp-Eyed%20Rookie.176.jpg",
+    "colorid": "G",
+    "cmc": 2
+  },
+  {
+    "name": "Steamcore Scholar",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Steamcore%20Scholar.71.jpg",
+    "colorid": "U",
+    "cmc": 3
+  },
+  {
+    "name": "Teysa, Opulent Oligarch",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Teysa,%20Opulent%20Oligarch.234.jpg",
+    "colorid": "B|W",
+    "cmc": 3
+  },
+  {
+    "name": "Thundering Falls",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Thundering%20Falls.269.jpg",
+    "colorid": "R|U",
+    "cmc": 0
+  },
+  {
+    "name": "Tolsimir, Midnight's Light",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Tolsimir,%20Midnight%27s%20Light.236.jpg",
+    "colorid": "G|W",
+    "cmc": 5
+  },
+  {
+    "name": "Treacherous Greed",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Treacherous%20Greed.237.jpg",
+    "colorid": "B|W",
+    "cmc": 3
+  },
+  {
+    "name": "Undercity Sewers",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Undercity%20Sewers.270.jpg",
+    "colorid": "B|U",
+    "cmc": 0
+  },
+  {
+    "name": "Underground Mortuary",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Underground%20Mortuary.271.jpg",
+    "colorid": "B|G",
+    "cmc": 0
+  },
+  {
+    "name": "Unyielding Gatekeeper",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Unyielding%20Gatekeeper.35.jpg",
+    "colorid": "W",
+    "cmc": 2
+  },
+  {
+    "name": "Warleader's Call",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Warleader%27s%20Call.242.jpg",
+    "colorid": "R|W",
+    "cmc": 3
+  },
+  {
+    "name": "Wojek Investigator",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Wojek%20Investigator.36.jpg",
+    "colorid": "W",
+    "cmc": 3
+  }
+]

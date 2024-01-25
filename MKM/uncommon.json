@@ -1,0 +1,453 @@
+[
+  {
+    "name": "A Killer Among Us",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/A%20Killer%20Among%20Us.167.jpg",
+    "colorid": "G",
+    "cmc": 5
+  },
+  {
+    "name": "Absolving Lammasu",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Absolving%20Lammasu.2.jpg",
+    "colorid": "W",
+    "cmc": 5
+  },
+  {
+    "name": "Aftermath Analyst",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Aftermath%20Analyst.148.jpg",
+    "colorid": "G",
+    "cmc": 2
+  },
+  {
+    "name": "Bolrac-Clan Basher",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Bolrac-Clan%20Basher.112.jpg",
+    "colorid": "R",
+    "cmc": 6
+  },
+  {
+    "name": "Branch of Vitu-Ghazi",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Branch%20of%20Vitu-Ghazi.258.jpg",
+    "colorid": null,
+    "cmc": 0
+  },
+  {
+    "name": "Burden of Proof",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Burden%20of%20Proof.42.jpg",
+    "colorid": "U",
+    "cmc": 2
+  },
+  {
+    "name": "Buried in the Garden",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Buried%20in%20the%20Garden.191.jpg",
+    "colorid": "G|W",
+    "cmc": 4
+  },
+  {
+    "name": "Candlestick",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Candlestick.43.jpg",
+    "colorid": "U",
+    "cmc": 1
+  },
+  {
+    "name": "Case of the Burning Masks",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Case%20of%20the%20Burning%20Masks.113.jpg",
+    "colorid": "R",
+    "cmc": 3
+  },
+  {
+    "name": "Case of the Filched Falcon",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Case%20of%20the%20Filched%20Falcon.44.jpg",
+    "colorid": "U",
+    "cmc": 1
+  },
+  {
+    "name": "Case of the Gateway Express",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Case%20of%20the%20Gateway%20Express.8.jpg",
+    "colorid": "W",
+    "cmc": 2
+  },
+  {
+    "name": "Case of the Gorgon's Kiss",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Case%20of%20the%20Gorgon%27s%20Kiss.79.jpg",
+    "colorid": "B",
+    "cmc": 1
+  },
+  {
+    "name": "Case of the Pilfered Proof",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Case%20of%20the%20Pilfered%20Proof.9.jpg",
+    "colorid": "W",
+    "cmc": 2
+  },
+  {
+    "name": "Case of the Shattered Pact",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Case%20of%20the%20Shattered%20Pact.1.jpg",
+    "colorid": null,
+    "cmc": 2
+  },
+  {
+    "name": "Case of the Trampled Garden",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Case%20of%20the%20Trampled%20Garden.156.jpg",
+    "colorid": "G",
+    "cmc": 3
+  },
+  {
+    "name": "Caught Red-Handed",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Caught%20Red-Handed.115.jpg",
+    "colorid": "R",
+    "cmc": 5
+  },
+  {
+    "name": "Cease",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Cease.246a.jpg",
+    "colorid": "B|G|W",
+    "cmc": 8,
+    "error": true
+  },
+  {
+    "name": "Chalk Outline",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Chalk%20Outline.157.jpg",
+    "colorid": "G",
+    "cmc": 4
+  },
+  {
+    "name": "Clandestine Meddler",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Clandestine%20Meddler.82.jpg",
+    "colorid": "B",
+    "cmc": 3
+  },
+  {
+    "name": "Concealed Weapon",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Concealed%20Weapon.117.jpg",
+    "colorid": "R",
+    "cmc": 2
+  },
+  {
+    "name": "Convenient Target",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Convenient%20Target.119.jpg",
+    "colorid": "R",
+    "cmc": 1
+  },
+  {
+    "name": "Cornered Crook",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Cornered%20Crook.120.jpg",
+    "colorid": "R",
+    "cmc": 5
+  },
+  {
+    "name": "Crime Novelist",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Crime%20Novelist.121.jpg",
+    "colorid": "R",
+    "cmc": 3
+  },
+  {
+    "name": "Culvert Ambusher",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Culvert%20Ambusher.158.jpg",
+    "colorid": "G",
+    "cmc": 5
+  },
+  {
+    "name": "Curious Cadaver",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Curious%20Cadaver.194.jpg",
+    "colorid": "B|U",
+    "cmc": 4
+  },
+  {
+    "name": "Deadly Complication",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Deadly%20Complication.195.jpg",
+    "colorid": "B|R",
+    "cmc": 3
+  },
+  {
+    "name": "Essence of Antiquity",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Essence%20of%20Antiquity.15.jpg",
+    "colorid": "W",
+    "cmc": 5
+  },
+  {
+    "name": "Evidence Examiner",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Evidence%20Examiner.201.jpg",
+    "colorid": "G|U",
+    "cmc": 2
+  },
+  {
+    "name": "Exit Specialist",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Exit%20Specialist.55.jpg",
+    "colorid": "U",
+    "cmc": 2
+  },
+  {
+    "name": "Expose the Culprit",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Expose%20the%20Culprit.124.jpg",
+    "colorid": "R",
+    "cmc": 2
+  },
+  {
+    "name": "Festerleech",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Festerleech.85.jpg",
+    "colorid": "B",
+    "cmc": 1
+  },
+  {
+    "name": "Flourishing Bloom-Kin",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Flourishing%20Bloom-Kin.160.jpg",
+    "colorid": "G",
+    "cmc": 2
+  },
+  {
+    "name": "Forensic Researcher",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Forensic%20Researcher.58.jpg",
+    "colorid": "U",
+    "cmc": 3
+  },
+  {
+    "name": "Frantic Scapegoat",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Frantic%20Scapegoat.126.jpg",
+    "colorid": "R",
+    "cmc": 1
+  },
+  {
+    "name": "Fuss",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Fuss.248a.jpg",
+    "colorid": "R|U|W",
+    "cmc": 9
+  },
+  {
+    "name": "Get a Leg Up",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Get%20a%20Leg%20Up.161.jpg",
+    "colorid": "G",
+    "cmc": 1
+  },
+  {
+    "name": "Gleaming Geardrake",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Gleaming%20Geardrake.205.jpg",
+    "colorid": "R|U",
+    "cmc": 2
+  },
+  {
+    "name": "Glint Weaver",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Glint%20Weaver.162.jpg",
+    "colorid": "G",
+    "cmc": 7
+  },
+  {
+    "name": "Greenbelt Radical",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Greenbelt%20Radical.163.jpg",
+    "colorid": "G",
+    "cmc": 4
+  },
+  {
+    "name": "Hard-Hitting Question",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Hard-Hitting%20Question.164.jpg",
+    "colorid": "G",
+    "cmc": 1
+  },
+  {
+    "name": "Harried Dronesmith",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Harried%20Dronesmith.131.jpg",
+    "colorid": "R",
+    "cmc": 4
+  },
+  {
+    "name": "Hedge Whisperer",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Hedge%20Whisperer.165.jpg",
+    "colorid": "G",
+    "cmc": 1
+  },
+  {
+    "name": "It Doesn't Add Up",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/It%20Doesn%27t%20Add%20Up.89.jpg",
+    "colorid": "B",
+    "cmc": 5
+  },
+  {
+    "name": "Karlov Watchdog",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Karlov%20Watchdog.20.jpg",
+    "colorid": "W",
+    "cmc": 4
+  },
+  {
+    "name": "Knife",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Knife.134.jpg",
+    "colorid": "R",
+    "cmc": 1
+  },
+  {
+    "name": "Kraul Whipcracker",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Kraul%20Whipcracker.213.jpg",
+    "colorid": "B|G",
+    "cmc": 2
+  },
+  {
+    "name": "Krovod Haunch",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Krovod%20Haunch.21.jpg",
+    "colorid": "W",
+    "cmc": 1
+  },
+  {
+    "name": "Lead Pipe",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Lead%20Pipe.90.jpg",
+    "colorid": "B",
+    "cmc": 1
+  },
+  {
+    "name": "Lightning Helix",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Lightning%20Helix.218.jpg",
+    "colorid": "R|W",
+    "cmc": 2
+  },
+  {
+    "name": "Living Conundrum",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Living%20Conundrum.63.jpg",
+    "colorid": "U",
+    "cmc": 5
+  },
+  {
+    "name": "Long Goodbye",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Long%20Goodbye.92.jpg",
+    "colorid": "B",
+    "cmc": 2
+  },
+  {
+    "name": "Lumbering Laundry",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Lumbering%20Laundry.253.jpg",
+    "colorid": null,
+    "cmc": 5
+  },
+  {
+    "name": "Magnetic Snuffler",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Magnetic%20Snuffler.254.jpg",
+    "colorid": null,
+    "cmc": 5
+  },
+  {
+    "name": "Meddling Youths",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Meddling%20Youths.219.jpg",
+    "colorid": "R|W",
+    "cmc": 5
+  },
+  {
+    "name": "Mistway Spy",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Mistway%20Spy.65.jpg",
+    "colorid": "U",
+    "cmc": 1
+  },
+  {
+    "name": "Neighborhood Guardian",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Neighborhood%20Guardian.26.jpg",
+    "colorid": "W",
+    "cmc": 2
+  },
+  {
+    "name": "Nightdrinker Moroii",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Nightdrinker%20Moroii.96.jpg",
+    "colorid": "B",
+    "cmc": 4
+  },
+  {
+    "name": "No More Lies",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/No%20More%20Lies.221.jpg",
+    "colorid": "U|W",
+    "cmc": 2
+  },
+  {
+    "name": "Not on My Watch",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Not%20on%20My%20Watch.28.jpg",
+    "colorid": "W",
+    "cmc": 2
+  },
+  {
+    "name": "Persuasive Interrogators",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Persuasive%20Interrogators.98.jpg",
+    "colorid": "B",
+    "cmc": 6
+  },
+  {
+    "name": "Polygraph Orb",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Polygraph%20Orb.99.jpg",
+    "colorid": "B",
+    "cmc": 5
+  },
+  {
+    "name": "Pompous Gadabout",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Pompous%20Gadabout.171.jpg",
+    "colorid": "G",
+    "cmc": 3
+  },
+  {
+    "name": "Presumed Dead",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Presumed%20Dead.100.jpg",
+    "colorid": "B",
+    "cmc": 2
+  },
+  {
+    "name": "Private Eye",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Private%20Eye.223.jpg",
+    "colorid": "U|W",
+    "cmc": 3
+  },
+  {
+    "name": "Push",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Push.250a.jpg",
+    "colorid": "B|R|W",
+    "cmc": 2
+  },
+  {
+    "name": "Reckless Detective",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Reckless%20Detective.141.jpg",
+    "colorid": "R",
+    "cmc": 2
+  },
+  {
+    "name": "Repulsive Mutation",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Repulsive%20Mutation.227.jpg",
+    "colorid": "G|U",
+    "cmc": 2
+  },
+  {
+    "name": "Sample Collector",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Sample%20Collector.175.jpg",
+    "colorid": "G",
+    "cmc": 3
+  },
+  {
+    "name": "Sanctuary Wall",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Sanctuary%20Wall.32.jpg",
+    "colorid": "W",
+    "cmc": 2
+  },
+  {
+    "name": "Scene of the Crime",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Scene%20of%20the%20Crime.267.jpg",
+    "colorid": null,
+    "cmc": 0
+  },
+  {
+    "name": "Soul Search",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Soul%20Search.232.jpg",
+    "colorid": "B|W",
+    "cmc": 2
+  },
+  {
+    "name": "Sumala Sentry",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Sumala%20Sentry.233.jpg",
+    "colorid": "G|W",
+    "cmc": 2
+  },
+  {
+    "name": "Surveillance Monitor",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Surveillance%20Monitor.73.jpg",
+    "colorid": "U",
+    "cmc": 4
+  },
+  {
+    "name": "Torch the Witness",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Torch%20the%20Witness.146.jpg",
+    "colorid": "R",
+    "cmc": 1
+  },
+  {
+    "name": "Undercity Eliminator",
+    "img": "https://aetherhub.b-cdn.net/images/cards/mtg-MKM/Undercity%20Eliminator.108.jpg",
+    "colorid": "B",
+    "cmc": 5
+  }
+]
