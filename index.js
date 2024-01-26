@@ -36,9 +36,10 @@
         return acc;
       }
       found[name] = true;
-      return [...acc, { name, img, colorid, cmc }];
+      return { ...acc, [name]: { name, img, colorid, cmc, diff: 0 } };
+      // return [...acc, { name, img, colorid, cmc, diff: 0 }];
     },
-    []
+    {}
   );
   console.log("🚀 ~ filteredCards ~ filteredCards:", filteredCards);
 })();

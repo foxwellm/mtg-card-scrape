@@ -1,35 +1,47 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState, useEffect } from "react";
+import { useDatabase } from "./hooks/useDatabase";
+import DisplayCard from "./components/DisplayCard";
+import common from "../../MKM/common2.json";
 
-function App() {
-  const [count, setCount] = useState(0)
+function getCardSet() {}
+
+const App = () => {
+  console.log("in");
+  const { currentCard, updateCard } = useDatabase();
+  // const [studyCards, setStudyCards] = useState(null);
+  // const [cardIndex, setCardIndex] = useState(0);
+  // console.log("🚀 ~ App ~ cardIndex:", cardIndex)
+
+  // useEffect(() => {
+  //   console.log('componentMount')
+  //   const newCardSet = Object.values(common).filter((card) => {
+  //     if (card.diff < 1) return true;
+  //     return false;
+  //   });
+  //   setStudyCards(newCardSet);
+  // }, []);
+
+  // function nextCard(isCorrect: boolean) {
+  //   console.log("🚀 ~ nextCard ~ isCorrect:", isCorrect);
+  //   // TODO: update card
+  //   const nextCardsIndex = cardIndex + 1;
+  //   if (nextCardsIndex < studyCards.length) {
+  //     setCardIndex(nextCardsIndex);
+  //   }
+  // }
+
+  // const name: any = studyCards?.[cardIndex]?.name;
 
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      {currentCard && <DisplayCard currentCard={currentCard} updateCard={updateCard} />}
+      {/* {cards ? (
+        <pre>{JSON.stringify(cards, null, 2)}</pre>
+      ) : (
+        <p>Loading data...</p>
+      )} */}
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
